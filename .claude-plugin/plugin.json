@@ -1,0 +1,13 @@
+{
+  "name": "raindrop",
+  "description": "Read and manage Raindrop.io bookmarks from Claude Code: search, save, tag, move, highlight, import, export and back up, through every endpoint of the Raindrop REST API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Benjamin Jackson",
+    "url": "https://github.com/benjaminjackson"
+  },
+  "homepage": "https://github.com/benjaminjackson/raindrop-skills",
+  "repository": "https://github.com/benjaminjackson/raindrop-skills",
+  "license": "MIT",
+  "keywords": ["raindrop", "bookmarks", "raindrop.io", "read-later"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "raindrop-skills",
+  "owner": {
+    "name": "Benjamin Jackson"
+  },
+  "metadata": {
+    "description": "Skills for managing Raindrop.io bookmarks from Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "raindrop",
+      "description": "Read and manage Raindrop.io bookmarks: search, save, tag, move, highlight, import, export and back up, through every endpoint of the Raindrop REST API. The access token stays out of the conversation.",
+      "source": "./"
+    }
+  ]
+}
